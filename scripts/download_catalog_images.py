@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import concurrent.futures
 import json
+import os
 import re
 import subprocess
 import sys
@@ -16,7 +17,7 @@ INDEX_PATH = REPO_ROOT / "catalog-index.json"
 REPORT_PATH = REPO_ROOT / "download-report.json"
 
 USER_AGENT = "GoodCigarsAssetsDownloader/1.0"
-MAX_WORKERS = 12
+MAX_WORKERS = int(os.environ.get("MAX_WORKERS", "2"))
 TIMEOUT_SECONDS = 30
 
 PRINT_LOCK = threading.Lock()
