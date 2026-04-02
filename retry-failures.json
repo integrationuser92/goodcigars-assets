@@ -1,0 +1,322 @@
+[
+  {
+    "catalog_id": "cigarworld-01010-40939",
+    "url": "https://www.cigarworld.de/bilder/detail/10_40939_86696.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-01101-3960",
+    "url": "https://www.cigarworld.de/bilder/detail/24_3960_21609.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-01172201-35843",
+    "url": "https://www.cigarworld.de/bilder/detail/2241_35843_47094.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-01172201-37831",
+    "url": "https://www.cigarworld.de/bilder/detail/2241_37831_54840.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-01172201-7063",
+    "url": "https://www.cigarworld.de/bilder/detail/2241_7063_29590.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-01172201-7064",
+    "url": "https://www.cigarworld.de/bilder/detail/2241_7064_29591.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-01172201-7065",
+    "url": "https://www.cigarworld.de/bilder/detail/2241_7065_29592.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-01172201-7066",
+    "url": "https://www.cigarworld.de/bilder/detail/2241_7066_29593.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-01204-60816",
+    "url": "https://www.cigarworld.de/bilder/detail/51_60816_171885.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90007415-18176",
+    "url": "https://www.cigarworld.de/bilder/detail/17724.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90007415-18177",
+    "url": "https://www.cigarworld.de/bilder/detail/17725.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90007415-18178",
+    "url": "https://www.cigarworld.de/bilder/detail/17726.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90007415-18181",
+    "url": "https://www.cigarworld.de/bilder/detail/17729.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90007415-19460",
+    "url": "https://www.cigarworld.de/bilder/detail/19019.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90007415-20064",
+    "url": "https://www.cigarworld.de/bilder/detail/19657.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90007415-20065",
+    "url": "https://www.cigarworld.de/bilder/detail/19658.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90013137-27359",
+    "url": "https://www.cigarworld.de/bilder/detail/12402_27359_74326.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90013137-40689",
+    "url": "https://www.cigarworld.de/bilder/detail/12402_40689_74331.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90013341-27680",
+    "url": "https://www.cigarworld.de/bilder/detail/12566_27680_16331.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90013341-27681",
+    "url": "https://www.cigarworld.de/bilder/detail/12566_27681_16332.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90013341-27682",
+    "url": "https://www.cigarworld.de/bilder/detail/12566_27682_16330.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90013341-29656",
+    "url": "https://www.cigarworld.de/bilder/detail/12566_29656_28479.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90013341-29657",
+    "url": "https://www.cigarworld.de/bilder/detail/12566_29657_28480.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90013341-29901",
+    "url": "https://www.cigarworld.de/bilder/detail/12566_29901_24267.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90013341-32826",
+    "url": "https://www.cigarworld.de/bilder/detail/12566_32826_39049.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90013341-32827",
+    "url": "https://www.cigarworld.de/bilder/detail/12566_32827_39050.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90013869-12533",
+    "url": "https://www.cigarworld.de/bilder/detail/11984.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90013869-14866",
+    "url": "https://www.cigarworld.de/bilder/detail/14376.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90013869-14868",
+    "url": "https://www.cigarworld.de/bilder/detail/14378.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90013869-14869",
+    "url": "https://www.cigarworld.de/bilder/detail/14379.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90013869-22648",
+    "url": "https://www.cigarworld.de/bilder/detail/22474.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90013869-22649",
+    "url": "https://www.cigarworld.de/bilder/detail/22475.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90013869-22650",
+    "url": "https://www.cigarworld.de/bilder/detail/22476.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90013869-22651",
+    "url": "https://www.cigarworld.de/bilder/detail/22477.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90013941-46815",
+    "url": "https://www.cigarworld.de/bilder/detail/13167_46815_189712.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90013942-60305",
+    "url": "https://www.cigarworld.de/bilder/detail/13168_60305_174513.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90014015-30745",
+    "url": "https://www.cigarworld.de/bilder/detail/13243_30745_75905.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90014514-37665",
+    "url": "https://www.cigarworld.de/bilder/detail/13763_37665_54952.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90014527-33799",
+    "url": "https://www.cigarworld.de/bilder/detail/13776_33799_36977.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90014527-33992",
+    "url": "https://www.cigarworld.de/bilder/detail/13776_33992_37525.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90015153-36267",
+    "url": "https://www.cigarworld.de/bilder/detail/14173_36267_48496.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90015153-37983",
+    "url": "https://www.cigarworld.de/bilder/detail/11979_37983_55149.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90015246-38891",
+    "url": "https://www.cigarworld.de/bilder/detail/14535_38891_59138.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90015246-38892",
+    "url": "https://www.cigarworld.de/bilder/detail/14535_38892_59139.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90015246-38893",
+    "url": "https://www.cigarworld.de/bilder/detail/14535_38893_59140.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90015246-38894",
+    "url": "https://www.cigarworld.de/bilder/detail/14535_38894_59141.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90015258-38960",
+    "url": "https://www.cigarworld.de/bilder/detail/14547_38960_59344.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90015297-39351",
+    "url": "https://www.cigarworld.de/bilder/detail/14586_39351_61228.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90015325-39506",
+    "url": "https://www.cigarworld.de/bilder/detail/14614_39506_74118.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90015325-39507",
+    "url": "https://www.cigarworld.de/bilder/detail/14614_39507_74119.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90015325-39509",
+    "url": "https://www.cigarworld.de/bilder/detail/14614_39509_62021.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90015386-39908",
+    "url": "https://www.cigarworld.de/bilder/detail/14679_39908_148955.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90015403-39988",
+    "url": "https://www.cigarworld.de/bilder/detail/14697_39988_63462.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90015403-39989",
+    "url": "https://www.cigarworld.de/bilder/detail/14697_39989_63463.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90015403-39990",
+    "url": "https://www.cigarworld.de/bilder/detail/14697_39990_63464.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90015403-39991",
+    "url": "https://www.cigarworld.de/bilder/detail/14697_39991_63465.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90015542-41129",
+    "url": "https://www.cigarworld.de/bilder/detail/14838_41129_71536.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90015542-41130",
+    "url": "https://www.cigarworld.de/bilder/detail/14838_41130_71519.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90015542-54609",
+    "url": "https://www.cigarworld.de/bilder/detail/13293_54609_134566.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90016249-49296",
+    "url": "https://www.cigarworld.de/bilder/detail/15568_49296_110923.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90017147-60099",
+    "url": "https://www.cigarworld.de/bilder/detail/16502_60099_170322.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90017147-60100",
+    "url": "https://www.cigarworld.de/bilder/detail/16502_60100_170328.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90017147-60101",
+    "url": "https://www.cigarworld.de/bilder/detail/16502_60101_170330.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  },
+  {
+    "catalog_id": "cigarworld-90017364-39571",
+    "url": "https://www.cigarworld.de/bilder/detail/14622_39571_62358.jpg",
+    "error": "curl: (22) The requested URL returned error: 404"
+  }
+]
