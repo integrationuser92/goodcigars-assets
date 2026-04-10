@@ -1,4 +1,4 @@
-# goodcigars-assets
+# goodc-assets
 
 Static catalog image hosting for GoodCigars via GitHub Pages.
 
@@ -12,7 +12,7 @@ The tokenizer reads the main app fixture from:
 
 After publishing, image URLs are available at:
 
-`https://integrationuser92.github.io/goodcigars-assets/catalog/b####-s####.<ext>`
+`https://integrationuser92.github.io/goodc-assets/catalog/b####-s####.<ext>`
 
 Hosted catalog metadata is published from the app fixture to:
 

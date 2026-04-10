@@ -10,7 +10,7 @@
       "ring_gauge": 46,
       "origin_country": "Portugal",
       "strength": "medium",
-      "catalog_image_url": "https://integrationuser92.github.io/goodcigars-assets/catalog/generic-desk-lamp.png"
+      "catalog_image_url": "https://integrationuser92.github.io/goodc-assets/catalog/generic-desk-lamp.png"
     },
     {
       "catalog_id": "catalog-travel-journal",
@@ -22,7 +22,7 @@
       "ring_gauge": 50,
       "origin_country": "Japan",
       "strength": "full",
-      "catalog_image_url": "https://integrationuser92.github.io/goodcigars-assets/catalog/generic-travel-journal.png"
+      "catalog_image_url": "https://integrationuser92.github.io/goodc-assets/catalog/generic-travel-journal.png"
     },
     {
       "catalog_id": "catalog-ceramic-vase",
@@ -34,7 +34,7 @@
       "ring_gauge": 60,
       "origin_country": "Italy",
       "strength": "full",
-      "catalog_image_url": "https://integrationuser92.github.io/goodcigars-assets/catalog/generic-ceramic-vase.png"
+      "catalog_image_url": "https://integrationuser92.github.io/goodc-assets/catalog/generic-ceramic-vase.png"
     }
   ]
 }

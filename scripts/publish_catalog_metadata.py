@@ -12,8 +12,8 @@ APP_REPO = Path("/Users/dm/Documents/Projects/GoodCigars")
 FIXTURE_PATH = APP_REPO / "GoodCigarsApp/Resources/CatalogFixtures/goodcigarscatalog.json"
 CATALOG_OUTPUT_PATH = REPO_ROOT / "catalog.json"
 INDEX_OUTPUT_PATH = REPO_ROOT / "catalog-index.json"
-CATALOG_URL = "https://integrationuser92.github.io/goodcigars-assets/catalog.json"
-ASSET_BASE_URL = "https://integrationuser92.github.io/goodcigars-assets/catalog/"
+CATALOG_URL = "https://integrationuser92.github.io/goodc-assets/catalog.json"
+ASSET_BASE_URL = "https://integrationuser92.github.io/goodc-assets/catalog/"
 
 
 def load_fixture() -> dict:

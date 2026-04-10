@@ -13,11 +13,11 @@ from pathlib import Path
 ASSET_REPO = Path("/Users/dm/Documents/Projects/goodcigars-assets")
 APP_REPO = Path("/Users/dm/Documents/Projects/GoodCigars")
 FIXTURE_PATH = APP_REPO / "GoodCigarsApp/Resources/CatalogFixtures/goodcigarscatalog.json"
-PRIVATE_MAP_PATH = APP_REPO / "GoodCigarsApp/Resources/CatalogFixtures/catalog-image-token-map.json"
+PRIVATE_MAP_PATH = APP_REPO / "PrivateCatalogData/catalog-image-token-map.json"
 PUBLIC_TOKEN_INDEX_PATH = ASSET_REPO / "catalog-token-index.json"
 FAILURE_PATH = ASSET_REPO / "tokenize-failures.json"
 CATALOG_DIR = ASSET_REPO / "catalog"
-BASE_URL = "https://integrationuser92.github.io/goodcigars-assets/catalog"
+BASE_URL = "https://integrationuser92.github.io/goodc-assets/catalog"
 USER_AGENT = "Mozilla/5.0"
 
 DIRECT_EXTENSIONS = (".jpg", ".jpeg", ".png", ".webp", ".gif")
@@ -120,7 +120,11 @@ def ensure_asset(row: dict, temp_dir: Path, final_path: Path) -> tuple[Path, str
     if download_image(direct_url, temp_path):
         return temp_path, direct_url
 
-    fallback_url = extract_fallback_image_url(row["source_url"])
+    source_url = row.get("source_url")
+    if not source_url:
+        raise RuntimeError(f"No fallback source URL available for {row['catalog_id']}")
+
+    fallback_url = extract_fallback_image_url(source_url)
     if fallback_url is None:
         raise RuntimeError(f"No fallback image found for {row['catalog_id']}")
 
@@ -198,6 +202,8 @@ def main() -> int:
         hosted_url = f"{BASE_URL}/{filename}"
         updated_row = dict(row)
         updated_row["catalog_image_url"] = hosted_url
+        updated_row.pop("source_url", None)
+        updated_row.pop("image_attribution", None)
         updated_rows.append(updated_row)
 
         private_map.append({
@@ -210,7 +216,6 @@ def main() -> int:
             "cigar_token": cigar_token,
             "asset_filename": filename,
             "hosted_url": hosted_url,
-            "resolved_source_image_url": resolved_url,
         })
         public_index.append({
             "brand_token": brand_token,
